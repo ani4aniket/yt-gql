@@ -1,0 +1,19 @@
+{
+  "name": "yt-gql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Aniket Kumar <aniketkumar049@gmail.com> (https://www.ianiket.live)",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.18.1",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.10.7",
+    "nodemon": "^2.0.4"
+  }
+}
